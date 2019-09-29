@@ -229,3 +229,22 @@ section {
     text-transform: uppercase;
     letter-spacing: 2px;
 }
+
+/*contact*/
+
+.contact {
+    background: #f0f0f0;
+}
+
+input, textarea {
+    display: block;
+    margin: 10px auto;
+    border: none;
+    padding: 10px;
+    width: 60%;
+    font-family: "Karla", sans-serif;
+}
+
+textarea {
+    height: 150px;
+}
