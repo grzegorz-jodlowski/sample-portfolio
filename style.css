@@ -102,3 +102,18 @@ section {
     font-size: 18px;
     margin: 48px 0 0 0;
 }
+
+/*Intro*/
+
+.intro {
+    background: #fff;
+}
+
+.intro p {
+    width: 70%;
+    margin: 0 auto;
+    padding: 48px 0;
+    font-size: 24px;
+    border-top: 1px solid #6D214F;
+    border-bottom: 1px solid #6D214F;
+}
