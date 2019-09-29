@@ -248,3 +248,16 @@ input, textarea {
 textarea {
     height: 150px;
 }
+
+/*footer*/
+
+.page-footer {
+    background: #242424;
+    color: #fff;
+    height: 50px;
+}
+
+.page-footer p {
+    padding-top: 10px;
+    margin: 0;
+}
