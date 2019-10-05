@@ -220,6 +220,7 @@ section {
     background: #6D214F;
     border: none;
     color: #fff;
+    cursor: pointer;
 }
 
 .button-main {
@@ -228,6 +229,7 @@ section {
     height: 60px;
     text-transform: uppercase;
     letter-spacing: 2px;
+    cursor: pointer;
 }
 
 /*contact*/
