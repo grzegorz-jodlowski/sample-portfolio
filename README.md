@@ -8,22 +8,23 @@ First simple project to learn basic HTML and CSS.
 
 ## Table of Contents
 
-- [What's this project about?](#what's)
+- [What's this project about?](#about)
 - [Technologies used](#technologies)
 - [What I learned?](#what)
 - [Interesting code snippet](#interesting)
 - [GitHub Pages](#gitHub)
 
+#
 ## What's this project about?
 
 This is one-page portfolio written to get skills in web development.
-
+#
 ## Technologies used
 This is one-page portfolio written to get skills in web development.
-
+#
 ## What I learned?
 This is one-page portfolio written to get skills in web development.
-
+#
 ## Interesting code snippet (for me of course 😉)
 This is one-page portfolio written to get skills in web development.
 
@@ -37,6 +38,6 @@ let generateProject = project => {
   }
 };
 ```
-
-## GitHub Pages
+#
+## <a name="gitHub"></a>GitHub Pages
 <a href="https://grzegorz-jodlowski.github.io/sample-portfolio/">Sample portfolio</a>
