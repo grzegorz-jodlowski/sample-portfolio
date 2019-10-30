@@ -34,6 +34,7 @@ It contains a few section with gallery and contact form.
 - write a simple website structure,
 - use complex CSS selectors,
 - write HTML code in semantic way,
+- organise .html and .css files,
 - build contact form,
 - attach images in proper way,
 - create simple hover effects,
@@ -51,17 +52,24 @@ It contains a few section with gallery and contact form.
 </br>
 
 ## <a name="interesting"></a>Interesting code snippet (for me of course 😉)
-This is one-page portfolio written to get skills in web development.
+- center child
 
-```javascript
-// code away!
+```css
+.splash-inner {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+```
+- adjust photo display
 
-let generateProject = project => {
-  let code = [];
-  for (let js = 0; js < project.length; js++) {
-    code.push(js);
-  }
-};
+```css
+.gallery-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
 ```
 
 </br>
