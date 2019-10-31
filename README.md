@@ -1,10 +1,11 @@
-<p style="text-align: center;"><a href="https://grzegorz-jodlowski.github.io/sample-portfolio/"><img src="logo.jpg" title="logo" alt="title with text Hi I/m Greg, pharmacist, developer wanna be"></a></p>
+<p align="center">
+<a href="https://grzegorz-jodlowski.github.io/sample-portfolio/"><img src="logo.jpg" title="logo" alt="title with text Hi I/m Greg, pharmacist, developer wanna be"></a>
+</p>
 
 
 
-# <p style="text-align: center;">🚀 Sample Portfolio</p>
-
-<p style="text-align: center;">Simple project to learn basic HTML and CSS.</p>
+# <p align="center">🚀 Sample Portfolio</p>
+<p align="center">Simple project to learn basic HTML and CSS.</p>
 
 </br>
 
