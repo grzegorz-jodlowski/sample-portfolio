@@ -42,13 +42,14 @@ It contains a few section with gallery and contact form.
 - attach images in proper way,
 - create simple hover effects,
 - set elements on the page in correct way,
-- read documentation (ex. <a href="https://cssreference.io/">CSS Reference</a>),
-- validate HTML or CSS code (ex. <a href="https://validator.w3.org/">HTML Validator</a>)
-- pick correct colour pallete to website (ex. <a href="https://flatuicolors.com/">Flat UI Colors</a>)
+- read documentation (e.g. <a href="https://cssreference.io/">CSS Reference</a>),
+- validate HTML or CSS code (e.g. <a href="https://validator.w3.org/">HTML Validator</a>)
+- pick correct colour pallete to website (e.g. <a href="https://flatuicolors.com/">Flat UI Colors</a>)
 - use google fonts (<a href="https://fonts.google.com">Google font</a>)
-- find free photos (ex. <a href="https://www.pexels.com/">Pexels</a>)
-- check browser support (ex. <a href="https://caniuse.com/">Can I use...</a>)
-- use free icons (ex. <a href="https://fontawesome.com/icons?d=gallery">Font awesome</a>)
+- find free photos (e.g. <a href="https://www.pexels.com/">Pexels</a>)
+- check browser support (e.g. <a href="https://caniuse.com/">Can I use...</a>)
+- use free icons (e.g. <a href="https://fontawesome.com/icons?d=gallery">Font awesome</a>)
+
 
 
 
