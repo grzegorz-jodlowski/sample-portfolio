@@ -15,7 +15,7 @@
 - [Technologies used](#technologies)
 - [What I learned?](#what)
 - [Interesting code snippet](#interesting)
-- [Website (on GitHub Pages)](#gitHub)
+- [Website (on GitHub Pages)](#site)
 
 </br>
 
