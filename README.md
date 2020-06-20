@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://grzegorz-jodlowski.github.io/sample-portfolio/"><img src="logo.jpg" title="logo" alt="title with text Hi I/m Greg, pharmacist, developer wanna be"></a>
+<a href="https://grzegorz-jodlowski.github.io/sample-portfolio/"><img src="img/logo.jpg" title="logo" alt="title with text Hi I/m Greg, pharmacist, developer wanna be"></a>
 </p>
 
 
